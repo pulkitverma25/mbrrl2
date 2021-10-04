@@ -1,6 +1,8 @@
 # MB-RRL2 
 ### a library for model-based relational reinforcement learning
 
+Forked from: [https://gitlab.tubit.tu-berlin.de/shoefer/mbrrl2](https://gitlab.tubit.tu-berlin.de/shoefer/mbrrl2)
+
 mbrrl2 is a fork of [libPRADA](http://userpage.fu-berlin.de/tlang/prada/)
 
 #### Main features of this fork
